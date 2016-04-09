@@ -1,4 +1,4 @@
-# el-segundo-site-redesign
+# El Segundo - Site Redesign
 
 - [x] github repo
 - [x] readme.md
