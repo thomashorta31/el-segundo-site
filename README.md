@@ -1,7 +1,7 @@
 # el-segundo-site-redesign
 
 - [x] github repo
-- [ ] readme.md
+- [x] readme.md
 - [ ] responsive
 - [ ] foundation
 - [ ] gulp
