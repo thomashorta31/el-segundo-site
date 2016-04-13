@@ -1,0 +1,25 @@
+# El Segundo - Site Redesign
+
+- [x] github repo
+- [x] readme.md
+- [ ] responsive
+- [ ] foundation
+- [ ] gulp
+- [ ] .gitignore
+- [ ] wordpress
+ - [ ] custom theme
+- [x] trello
+ - [x] icebox
+ - [x] todo
+ - [x] mvp (minimum viable product)
+ - [x] done
+ - [x] assets
+- [ ] gantt chart
+- [ ] site map
+- [ ] color palette
+ - [ ] 3 choices (full palettes)
+- [ ] wireframe
+- [ ] SASS
+- [ ] 3 types of users (?)
+- [x] list of cons
+- [x] list of improvements
