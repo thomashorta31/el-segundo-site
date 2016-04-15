@@ -5,7 +5,7 @@
 - [ ] responsive
 - [ ] foundation
 - [ ] gulp
-- [ ] .gitignore
+- [x] .gitignore
 - [ ] wordpress
  - [ ] custom theme
 - [x] trello
