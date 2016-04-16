@@ -14,8 +14,8 @@
  - [x] mvp (minimum viable product)
  - [x] done
  - [x] assets
-- [ ] gantt chart
-- [ ] site map
+- [x] gantt chart
+- [x] site map
 - [ ] color palette
  - [ ] 3 choices (full palettes)
 - [ ] wireframe
