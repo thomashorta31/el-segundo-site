@@ -23,3 +23,4 @@ wp-content/themes/*
 !wp-content/themes/es-wp-foundation/
 
 node_modules
+.DS_Store
