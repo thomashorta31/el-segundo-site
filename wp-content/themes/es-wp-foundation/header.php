@@ -4,8 +4,34 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The City of El Segundo</title>
-    <!-- <link rel="stylesheet" href="css/foundation.css"> -->
-    <!-- <link rel="stylesheet" href="css/app.css"> -->
+    <!-- make page title dynamic -->
+    <title><?php wp_title( '|', true, 'right' ); ?></title>
     <?php wp_head(); ?>
   </head>
+  <body <?php body_class(); ?>>
+    <div class="top-bar">
+        <div class="row">
+            <div class="top-bar-left">
+                <ul class="menu">
+                    <?php
+                      $args = array(
+                       'menu'    => 'header-menu',
+                       'menu_class' => 'menu',
+                       'container' => 'false'
+                      );
+                      wp_nav_menu( $args );
+                    ?>
+                </ul>
+            </div>
+            <div class="top-bar-right">
+                <ul class="menu">
+                    <li>
+                        <input type="search" placeholder="Search">
+                    </li>
+                    <li>
+                        <button type="button" class="button">Search</button>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
