@@ -13,7 +13,7 @@ var styleDestination    = './'; // Path to place the compiled CSS file
 // Default set to root folder
 var vendorStyleSRC = ['./css/foundation-test.css'];
 var vendorStyleDestination = './assets/dest/css/';
-var jsVendorSRC         = ['./js/vendor/jquery.js','./js/vendor/foundation.js']; // Path to JS vendors folder
+var jsVendorSRC         = ['./js/vendor/jquery.js']; // Path to JS vendors folder
 var jsVendorDestination = './assets/dest/js/vendors/'; // Path to place the compiled JS vendors file
 var jsVendorFile        = 'vendors'; // Compiled JS vendors file name
 // Default set to vendors i.e. vendors.js

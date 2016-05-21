@@ -10,7 +10,7 @@ add_action('wp_enqueue_scripts', 'register_my_styles');
 
 function register_my_scripts() {
   wp_register_script('jquery', "/js/vendor/jquery.js", array(),'2.1.0',false);
-  wp_register_script('foundation-js', "/js/vendor/foundation.js", array(),'2.1.0',false);
+  wp_register_script('foundation-js', "http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js", array(),'2.1.0',false);
 
   wp_enqueue_script(array('jquery','foundation-js'));
 }
