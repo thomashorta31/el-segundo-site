@@ -23,7 +23,8 @@
                         <h2 class="fontglyph">A</h2>
                     </div>
                     <div class="media-object-section">
-                        <h5><a href="#">City Clerk</a></h5>
+                        <!-- URL is displayed in the browser status bar by hovering the mouse over the Page Title of the target Page in the Pages Screen -->
+                        <h5><a href="/index.php?page_id=51">City Clerk</a></h5>
                         <p>Frequently Asked Questions, Services, Available Documents &amp; Forms, Divisions</p>
                     </div>
                 </div>
