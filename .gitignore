@@ -22,5 +22,9 @@ wp-content/plugins/*
 wp-content/themes/*
 !wp-content/themes/es-wp-foundation/
 
+### Sass ###
+wp-content/themes/es-wp-foundation/*.css.map
+wp-content/themes/es-wp-foundation/.sass-cache/
+
 node_modules
 .DS_Store
