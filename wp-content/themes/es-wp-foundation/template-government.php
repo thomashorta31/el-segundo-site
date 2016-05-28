@@ -6,7 +6,7 @@
 <?php get_header(); ?>
 
     <br>
-        <div class="row">
+        <div class="row gov">
             <div class="medium-6 columns">
                 <img class="thumbnail" src="<?php bloginfo('template_url'); ?>/assets/src/img/es-city-hall.jpg">
             </div>
@@ -16,29 +16,29 @@
             </div>
         </div>
         <hr>
-        <div class="row">
+        <div class="row gov">
             <div class="medium-4 columns">
                 <div class="media-object">
                     <div class="media-object-section">
-                        <img class="thumbnail" src="http://placehold.it/100x100">
+                        <h2 class="fontglyph">A</h2>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">City Clerk</a></h5>
-                        <p><a href="#">Frequently Asked Questions,</a> <a href="#">Services,</a> <a href="#">Available Documents &amp; Forms,</a> <a href="#">Divisions,</a> <a href="#">Contact List</a> </p>
+                        <p><a href="#">Frequently Asked Questions,</a> <a href="#">Services,</a> <a href="#">Available Documents &amp; Forms,</a> <a href="#">Divisions</a></p>
                     </div>
                 </div>
                 <div class="media-object">
                     <div class="media-object-section">
-                        <img class="thumbnail" src="http://placehold.it/100x100">
+                        <h2 class="fontglyph">B</h2>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">City Manager's Office</a></h5>
-                        <p><a href="#">City Manager,</a> <a href="#">City Attorney,</a> <a href="#">City Manager Senior E/A,</a> <a href="#">City Council E/A,</a> <a href="#">Contacts</a></p>
+                        <p><a href="#">City Manager,</a> <a href="#">City Attorney,</a> <a href="#">City Manager Senior E/A,</a> <a href="#">City Council E/A</a></p>
                     </div>
                 </div>
                 <div class="media-object">
                     <div class="media-object-section">
-                        <img class="thumbnail" src="http://placehold.it/100x100">
+                        <h2 class="fontglyph">C</h2>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">City Treasurer</a></h5>
@@ -47,18 +47,18 @@
                 </div>
                 <div class="media-object">
                     <div class="media-object-section">
-                        <img class="thumbnail" src="http://placehold.it/100x100">
+                        <h2 class="fontglyph">D</h2>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Elected Officials</a></h5>
-                        <p><a href="#">Council,</a> <a href="#">City Clerk,</a> <a href="#">City Treasurer,</a> <a href="#">Contacts</a></p>
+                        <p><a href="#">Council,</a> <a href="#">City Clerk,</a> <a href="#">City Treasurer</a> </p>
                     </div>
                 </div>
             </div>
             <div class="medium-4 columns">
                 <div class="media-object">
                     <div class="media-object-section">
-                        <img class="thumbnail" src="http://placehold.it/100x100">
+                        <h2 class="fontglyph">E</h2>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Finance</a></h5>
@@ -67,7 +67,7 @@
                 </div>
                 <div class="media-object">
                     <div class="media-object-section">
-                        <img class="thumbnail" src="http://placehold.it/100x100">
+                        <h2 class="fontglyph">F</h2>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Fire Department</a></h5>
@@ -76,7 +76,7 @@
                 </div>
                 <div class="media-object">
                     <div class="media-object-section">
-                        <img class="thumbnail" src="http://placehold.it/100x100">
+                        <h2 class="fontglyph">G</h2>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Human Resources</a></h5>
@@ -85,7 +85,7 @@
                 </div>
                 <div class="media-object">
                     <div class="media-object-section">
-                        <img class="thumbnail" src="http://placehold.it/100x100">
+                        <h2 class="fontglyph">H</h2>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Library</a></h5>
@@ -96,7 +96,7 @@
             <div class="medium-4 columns">
                 <div class="media-object">
                     <div class="media-object-section">
-                        <img class="thumbnail" src="http://placehold.it/100x100">
+                        <h2 class="fontglyph">I</h2>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Planning &amp; Building Safety</a></h5>
@@ -105,7 +105,7 @@
                 </div>
                 <div class="media-object">
                     <div class="media-object-section">
-                        <img class="thumbnail" src="http://placehold.it/100x100">
+                        <h2 class="fontglyph">J</h2>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Police Department</a></h5>
@@ -114,16 +114,16 @@
                 </div>
                 <div class="media-object">
                     <div class="media-object-section">
-                        <img class="thumbnail" src="http://placehold.it/100x100">
+                        <h2 class="fontglyph">K</h2>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Public Works</a></h5>
-                        <p><a href="#">Frequently Asked Questions,</a> <a href="#">Services,</a> <a href="#">Divisions,</a> <a href="#">Documents,</a> <a href="#">Contact</a></p>
+                        <p><a href="#">Frequently Asked Questions,</a> <a href="#">Services,</a> <a href="#">Divisions,</a> <a href="#">Documents</a></p>
                     </div>
                 </div>
                 <div class="media-object">
                     <div class="media-object-section">
-                        <img class="thumbnail" src="http://placehold.it/100x100">
+                        <h2 class="fontglyph">L</h2>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Recreation &amp; Parks</a></h5>
