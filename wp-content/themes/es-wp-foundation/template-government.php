@@ -24,7 +24,7 @@
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">City Clerk</a></h5>
-                        <p><a href="#">Frequently Asked Questions,</a> <a href="#">Services,</a> <a href="#">Available Documents &amp; Forms,</a> <a href="#">Divisions</a></p>
+                        <p>Frequently Asked Questions, Services, Available Documents &amp; Forms, Divisions</p>
                     </div>
                 </div>
                 <div class="media-object">
@@ -33,7 +33,7 @@
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">City Manager's Office</a></h5>
-                        <p><a href="#">City Manager,</a> <a href="#">City Attorney,</a> <a href="#">City Manager Senior E/A,</a> <a href="#">City Council E/A</a></p>
+                        <p>City Manager, City Attorney, City Manager Senior E/A, City Council E/A</p>
                     </div>
                 </div>
                 <div class="media-object">
@@ -42,7 +42,7 @@
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">City Treasurer</a></h5>
-                        <p><a href="#">Treasurer,</a> <a href="#">Department Highlights,</a> <a href="#">Goals and Objectives,</a> <a href="#">Reports, Press Releases</a></p>
+                        <p>Treasurer, Department Highlights, Goals and Objectives, Reports, Press Releases</p>
                     </div>
                 </div>
                 <div class="media-object">
@@ -51,7 +51,7 @@
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Elected Officials</a></h5>
-                        <p><a href="#">Council,</a> <a href="#">City Clerk,</a> <a href="#">City Treasurer</a> </p>
+                        <p>Council, City Clerk, City Treasurer</p>
                     </div>
                 </div>
             </div>
@@ -62,7 +62,7 @@
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Finance</a></h5>
-                        <p><a href="#">Budgets,</a> <a href="#">Comprehensive Annual Financial Reports</a></p>
+                        <p>Budgets,</a> Comprehensive Annual Financial Reports</a></p>
                     </div>
                 </div>
                 <div class="media-object">
@@ -71,7 +71,7 @@
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Fire Department</a></h5>
-                        <p><a href="#">Fire Stations,</a> <a href="#">Paramedics,</a> <a href="#">Fire Prevention,</a> <a href="#">Environmental Safety,</a> <a href="#">Sandbag Distribution,</a> <a href="#">Services</a></p>
+                        <p>Fire Stations, Paramedics, Fire Prevention, Environmental Safety, Sandbag Distribution, Services</p>
                     </div>
                 </div>
                 <div class="media-object">
@@ -80,7 +80,7 @@
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Human Resources</a></h5>
-                        <p><a href="#">Positions Available,</a> <a href="#">Part-Time &amp; Promotional Opportunities,</a> <a href="#">Contacts,</a> <a href="#">Mission Statement</a></p>
+                        <p>Positions Available, Part-Time &amp; Promotional Opportunities, Contacts, Mission Statement</p>
                     </div>
                 </div>
                 <div class="media-object">
@@ -89,7 +89,7 @@
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Library</a></h5>
-                        <p><a href="#">Operating Hours,</a> <a href="#">Events,</a> <a href="#">History,</a> <a href="#">Services,</a> <a href="#">Calendar</a></p>
+                        <p>Operating Hours, Events, History, Services, Calendar</p>
                     </div>
                 </div>
             </div>
@@ -100,7 +100,7 @@
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Planning &amp; Building Safety</a></h5>
-                        <p><a href="#">Appointment Plan Check,</a> <a href="#">Permits,</a> <a href="#">Case Planner Process,</a> <a href="#">Inspections,</a> <a href="#">Municipal Code</a></p>
+                        <p>Appointment Plan Check, Permits, Case Planner Process, Inspections, Municipal Code</p>
                     </div>
                 </div>
                 <div class="media-object">
@@ -109,7 +109,7 @@
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Police Department</a></h5>
-                        <p><a href="#">Vision,</a> <a href="#">Mission,</a> <a href="#">Values,</a> <a href="#">Goals &amp; Objectives,</a> <a href="#">Area Command Program,</a> <a href="#">Community Relations</a></p>
+                        <p>Vision, Mission, Values, Goals &amp; Objectives, Area Command Program, Community Relations</p>
                     </div>
                 </div>
                 <div class="media-object">
@@ -118,7 +118,7 @@
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Public Works</a></h5>
-                        <p><a href="#">Frequently Asked Questions,</a> <a href="#">Services,</a> <a href="#">Divisions,</a> <a href="#">Documents</a></p>
+                        <p>Frequently Asked Questions, Services, Divisions, Documents</p>
                     </div>
                 </div>
                 <div class="media-object">
@@ -127,7 +127,7 @@
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Recreation &amp; Parks</a></h5>
-                        <p><a href="#">Programs,</a> <a href="#">Events,</a> <a href="#">Registration,</a> <a href="#">Parks Commission,</a> <a href="#">Sponsorship Opportunities</a></p>
+                        <p>Programs, Events, Registration, Parks Commission, Sponsorship Opportunities</p>
                     </div>
                 </div>
 
