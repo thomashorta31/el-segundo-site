@@ -26,5 +26,10 @@ wp-content/themes/*
 wp-content/themes/es-wp-foundation/*.css.map
 wp-content/themes/es-wp-foundation/.sass-cache/
 
+### SublimeText ###
+# workspace files are user-specific
+*.sublime-workspace
+*.sublime-project
+
 node_modules
 .DS_Store
