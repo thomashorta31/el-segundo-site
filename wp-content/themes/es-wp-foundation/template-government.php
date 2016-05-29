@@ -12,7 +12,7 @@
             </div>
             <div class="medium-6 columns">
                 <h3>Government</h3>
-                <p>City Services including: <a href="#">City Clerk,</a> <a href="#">City Manager's Office,</a> <a href="#">City Treasurer,</a> <a href="#">Elected Officials,</a> <a href="#">Finance,</a> <a href="#">Fire Department,</a> <a href="#">Human Resources,</a> <a href="#">Library,</a> <a href="#">Planning and Building Safety,</a> <a href="#">Police Department,</a> <a href="#">Public Works,</a> <a href="#">Recreation and Parks</a></p>
+                <p>City Services including: City Clerk, City Manager's Office, City Treasurer, Elected Officials, Finance, Fire Department, Human Resources, Library, Planning and Building Safety, Police Department, Public Works, Recreation and Parks</p>
             </div>
         </div>
         <hr>
@@ -20,7 +20,7 @@
             <div class="medium-4 columns">
                 <div class="media-object">
                     <div class="media-object-section">
-                        <h2 class="fontglyph">A</h2>
+                        <a href="/index.php?page_id=51"><h2 class="fontglyph">A</h2></a>
                     </div>
                     <div class="media-object-section">
                         <!-- URL is displayed in the browser status bar by hovering the mouse over the Page Title of the target Page in the Pages Screen -->
@@ -30,7 +30,7 @@
                 </div>
                 <div class="media-object">
                     <div class="media-object-section">
-                        <h2 class="fontglyph">B</h2>
+                        <a href="/index.php?page_id=51"><h2 class="fontglyph">B</h2></a>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">City Manager's Office</a></h5>
@@ -39,7 +39,7 @@
                 </div>
                 <div class="media-object">
                     <div class="media-object-section">
-                        <h2 class="fontglyph">C</h2>
+                        <a href="/index.php?page_id=51"><h2 class="fontglyph">C</h2></a>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">City Treasurer</a></h5>
@@ -48,7 +48,7 @@
                 </div>
                 <div class="media-object">
                     <div class="media-object-section">
-                        <h2 class="fontglyph">D</h2>
+                        <a href="/index.php?page_id=51"><h2 class="fontglyph">D</h2></a>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Elected Officials</a></h5>
@@ -59,7 +59,7 @@
             <div class="medium-4 columns">
                 <div class="media-object">
                     <div class="media-object-section">
-                        <h2 class="fontglyph">E</h2>
+                        <a href="/index.php?page_id=51"><h2 class="fontglyph">E</h2></a>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Finance</a></h5>
@@ -68,7 +68,7 @@
                 </div>
                 <div class="media-object">
                     <div class="media-object-section">
-                        <h2 class="fontglyph">F</h2>
+                        <a href="/index.php?page_id=51"><h2 class="fontglyph">F</h2></a>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Fire Department</a></h5>
@@ -77,7 +77,7 @@
                 </div>
                 <div class="media-object">
                     <div class="media-object-section">
-                        <h2 class="fontglyph">G</h2>
+                        <a href="/index.php?page_id=51"><h2 class="fontglyph">G</h2></a>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Human Resources</a></h5>
@@ -86,7 +86,7 @@
                 </div>
                 <div class="media-object">
                     <div class="media-object-section">
-                        <h2 class="fontglyph">H</h2>
+                        <a href="/index.php?page_id=51"><h2 class="fontglyph">H</h2></a>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Library</a></h5>
@@ -97,7 +97,7 @@
             <div class="medium-4 columns">
                 <div class="media-object">
                     <div class="media-object-section">
-                        <h2 class="fontglyph">I</h2>
+                        <a href="/index.php?page_id=51"><h2 class="fontglyph">I</h2></a>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Planning &amp; Building Safety</a></h5>
@@ -106,7 +106,7 @@
                 </div>
                 <div class="media-object">
                     <div class="media-object-section">
-                        <h2 class="fontglyph">J</h2>
+                        <a href="/index.php?page_id=51"><h2 class="fontglyph">J</h2></a>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Police Department</a></h5>
@@ -115,7 +115,7 @@
                 </div>
                 <div class="media-object">
                     <div class="media-object-section">
-                        <h2 class="fontglyph">K</h2>
+                        <a href="/index.php?page_id=51"><h2 class="fontglyph">K</h2></a>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Public Works</a></h5>
@@ -124,7 +124,7 @@
                 </div>
                 <div class="media-object">
                     <div class="media-object-section">
-                        <h2 class="fontglyph">L</h2>
+                        <a href="/index.php?page_id=51"><h2 class="fontglyph">L</h2></a>
                     </div>
                     <div class="media-object-section">
                         <h5><a href="#">Recreation &amp; Parks</a></h5>
