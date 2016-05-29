@@ -1,12 +1,12 @@
     <div class="row column">
         <hr>
         <ul class="menu footer-menu">
-            <li class="float-left"><a href="#">Visitor</a></li>
-            <li class="float-left"><a href="#">Services</a></li>
-            <li class="float-left"><a href="#">Resident</a></li>
-            <li class="float-left"><a href="#">Business</a></li>
-            <li class="float-left"><a href="#">Government</a></li>
-            <li class="float-right"><a href="#">&copy; 2016. The City of El Segundo</a></li>
+            <li class="float-left"><a href="/index.php?page_id=18">Visitor</a></li>
+            <li class="float-left"><a href="/index.php?page_id=29">Services</a></li>
+            <li class="float-left"><a href="/index.php?page_id=31">Resident</a></li>
+            <li class="float-left"><a href="/index.php?page_id=33">Business</a></li>
+            <li class="float-left"><a href="/index.php?page_id=16">Government</a></li>
+            <li class="float-right"><a href="/index.php?page_id=14">&copy; 2016. The City of El Segundo</a></li>
         </ul>
     </div>
     <?php wp_footer(); ?>
