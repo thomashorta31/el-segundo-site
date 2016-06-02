@@ -38,11 +38,11 @@
                     <div class="media-object-section">
                         <h5>Documents &amp; Forms</h5>
                         <p>
-                            Municipal Code</br>
-                            City Council Agenda Packets</br>
-                            City Council Meeting Minutes</br>
-                            Claim Forms</br>
-                            Voter Registration</br>
+                            <a href="http://www.sterlingcodifiers.com/codebook/index.php?book_id=587" target="_blank">Municipal Code</a></br>
+                            <a href="">City Council Agenda Packets</a></br>
+                            <a href="">City Council Meeting Minutes</a></br>
+                            <a href="">Claim Forms</a></br>
+                            <a href="">Voter Registration</a></br>
                         </p>
                     </div>
                 </div>

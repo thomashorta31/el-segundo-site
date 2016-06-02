@@ -57,7 +57,6 @@ h2.fontglyph.inactive {
  h1, h2 {
     color: $silver-chalice;
  }
-
 div.media-object {
     h5 {
         font-weight: bold;
@@ -68,29 +67,13 @@ div.media-object {
             color: $curious-blue;
         }
     }
-    p {
-        a {
-            color: $silver-chalice;
-            &:hover {
-                color: $curious-blue;
-            }
-        }
-    }
-}
-.gov {
-    a {
-        color: $silver-chalice;
-    }
-    h3 {
-        font-weight: bold;
-    }
-}
-p {
-    color: $silver-chalice;
 }
 h3 {
     color: $silver-chalice;
     font-weight: bold;
+}
+p {
+    color: $silver-chalice;
 }
 .title-down {
     margin-top: 45px;
