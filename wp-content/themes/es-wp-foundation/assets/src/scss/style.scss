@@ -9,6 +9,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Code and take over the world line-by-line
 */
+
+$curious-blue: #2199e8;
+$silver-chalice: #aaaaaa;
+
 @font-face {
     font-family: 'elsegundo-glyphs';
     src: url('assets/dest/fonts/elsegundo-glyphs.eot');
@@ -44,22 +48,42 @@ Code and take over the world line-by-line
 
 h2.fontglyph {
     font-family: 'elsegundo-glyphs';
-    color: #2199e8;
+    color: $curious-blue;
     font-size: 6em;
 }
-div.media-object h5 {
-    font-weight: bold;
-    margin-bottom: 0px;
-    margin-top: 12px;
+h2.fontglyph.inactive {
+    color: $silver-chalice;
 }
-div.media-object h5 a{
-    color: #2199e8;
+div.media-object {
+    h5 {
+        font-weight: bold;
+        margin-bottom: 0;
+        margin-top: 12px;
+        a {
+            color: $curious-blue;
+        }
+    }
+    p {
+        a {
+            &:hover {
+                color: $curious-blue;
+            }
+        }
+    }
 }
-.gov a, p, h3 {
-    color: #aaaaaa;
+.gov {
+    a {
+        color: $silver-chalice;
+    }
+    h3 {
+        font-weight: bold;
+    }
 }
-.gov h3 {
-    font-weight: bold;
+p {
+    color: $silver-chalice;
+}
+h3 {
+    color: $silver-chalice;
 }
 .title-down {
     margin-top: 45px;
@@ -80,8 +104,6 @@ div.media-object h5 a{
 }
 .current-menu-item {
     >a {
-        color: #aaaaaa;
+        color: $silver-chalice;
     }
 }
-
-

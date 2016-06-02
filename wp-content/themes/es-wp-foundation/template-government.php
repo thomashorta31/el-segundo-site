@@ -8,7 +8,7 @@
     <br>
         <div class="row gov">
             <div class="medium-6 columns">
-                <img class="thumbnail" src="<?php bloginfo('template_url'); ?>/assets/src/img/es-city-hall.jpg">
+                <img class="thumbnail" src="<?php bloginfo('template_url'); ?>/assets/dest/img/es-city-hall.jpg">
             </div>
             <div class="medium-6 columns">
                 <h3>Government</h3>

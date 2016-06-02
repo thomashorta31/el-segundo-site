@@ -9,7 +9,7 @@
         <div class="row gov">
             <div class="medium-1 columns">
                 <!-- use letters A-L for the glyph below -->
-                <h2 class="fontglyph">H</h2>
+                <h2 class="fontglyph inactive">H</h2>
             </div>
             <div class="medium-11 columns">
                 <h3 class="title-down">Library: <span style='font-weight: normal;'>Subhead</span></h3>
