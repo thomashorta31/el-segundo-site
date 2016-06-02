@@ -39,10 +39,10 @@
                         <h5>Documents &amp; Forms</h5>
                         <p>
                             <a href="http://www.sterlingcodifiers.com/codebook/index.php?book_id=587" target="_blank">Municipal Code</a></br>
-                            <a href="">City Council Agenda Packets</a></br>
-                            <a href="">City Council Meeting Minutes</a></br>
-                            <a href="">Claim Forms</a></br>
-                            <a href="">Voter Registration</a></br>
+                            <a href="http://www.elsegundo.org/depts/elected/agendas.asp" target="_blank">City Council Agenda Packets</a></br>
+                            <a href="http://www.elsegundo.org/depts/elected/minutes.asp" target="_blank">City Council Meeting Minutes</a></br>
+                            <a href="http://www.elsegundo.org/civicax/filebank/blobdload.aspx?blobid=3729" target="_blank">Claim Forms</a></br>
+                            <a href="http://www.lavote.net/" target="_blank">Voter Registration</a></br>
                         </p>
                     </div>
                 </div>
@@ -52,8 +52,8 @@
                     <div class="media-object-section">
                         <h5>Divisions</h5>
                         <p>
-                            Administration</br>
-                            Elections</br>
+                            Administration:<a href="http://www.elsegundo.org/depts/cityclerk/admin/mission.asp" target="_blank"> Mission</a> | <a href="http://www.elsegundo.org/depts/cityclerk/admin/accomplish.asp" target="_blank">Accomplishments</a> | <a href="http://www.elsegundo.org/depts/cityclerk/admin/goals.asp" target="_blank">Goals</a></br>
+                            Elections:<a href="http://www.elsegundo.org/depts/cityclerk/elections/mission.asp" target="_blank"> Mission</a> | <a href="http://www.elsegundo.org/depts/cityclerk/elections/accomplish.asp" target="_blank">Accomplishments</a> | <a href="http://www.elsegundo.org/depts/cityclerk/elections/goals.asp" target="_blank">Goals</a></br>
                         </p>
                     </div>
                 </div>
@@ -67,7 +67,7 @@
                         <h5>Frequently Asked Questions</h5>
                         <p>
                             Where can I register to vote?</br>
-                            • Forms are available at the City Clerk's Office, Post Office, Library, Chamber of Commerce or online at <a href="http://www.lavote.net/" target="_blank">www.lavote.net</a>.</br>
+                            • Forms are available at the City Clerk's Office, Post Office, Library, Chamber of Commerce or online at <a href="http://www.lavote.net/" target="_blank">lavote.net</a>.</br>
                         </p>
                         <p>
                             Where are City Council meetings held?</br>
