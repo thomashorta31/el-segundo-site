@@ -54,17 +54,23 @@ h2.fontglyph {
 h2.fontglyph.inactive {
     color: $silver-chalice;
 }
+ h1, h2 {
+    color: $silver-chalice;
+ }
+
 div.media-object {
     h5 {
         font-weight: bold;
-        margin-bottom: 0;
+        margin-bottom: 5px;
         margin-top: 12px;
+        color: $silver-chalice;
         a {
             color: $curious-blue;
         }
     }
     p {
         a {
+            color: $silver-chalice;
             &:hover {
                 color: $curious-blue;
             }
@@ -84,6 +90,7 @@ p {
 }
 h3 {
     color: $silver-chalice;
+    font-weight: bold;
 }
 .title-down {
     margin-top: 45px;

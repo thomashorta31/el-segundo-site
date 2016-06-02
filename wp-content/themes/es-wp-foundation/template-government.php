@@ -6,7 +6,7 @@
 <?php get_header(); ?>
 
     <br>
-        <div class="row gov">
+        <div class="row">
             <div class="medium-6 columns">
                 <img class="thumbnail" src="<?php bloginfo('template_url'); ?>/assets/dest/img/es-city-hall.jpg">
             </div>
@@ -16,7 +16,7 @@
             </div>
         </div>
         <hr>
-        <div class="row gov">
+        <div class="row">
             <div class="medium-4 columns">
                 <div class="media-object">
                     <div class="media-object-section">

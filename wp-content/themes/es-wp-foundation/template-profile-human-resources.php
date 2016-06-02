@@ -6,7 +6,7 @@
 <?php get_header(); ?>
 
     <br>
-        <div class="row gov">
+        <div class="row">
             <div class="medium-1 columns">
                 <!-- use letters A-L for the glyph below -->
                 <h2 class="fontglyph inactive">G</h2>
@@ -16,7 +16,7 @@
             </div>
         </div>
         <hr>
-        <div class="row gov">
+        <div class="row">
             <div class="medium-12 columns">
                 <div class="media-object">
                     <div class="media-object-section">
@@ -27,7 +27,7 @@
             </div>
         </div>
         <hr>
-        <div class="row gov">
+        <div class="row">
             <div class="medium-4 columns">
                 <div class="media-object">
                     <div class="media-object-section">
