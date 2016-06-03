@@ -20,7 +20,7 @@
             <div class="medium-6 columns">
                 <div class="media-object">
                     <div class="media-object-section">
-                        <h5>Fire Station 1</h5>
+                        <h5>El Segundo Fire Station #1</h5>
                         <p>
                             <a href="tel:+1-310-524-2269">(310) 524-2269</a></br>
                             314 Main Street, El Segundo, CA 90245</br>
@@ -31,7 +31,7 @@
             <div class="medium-6 columns">
                 <div class="media-object">
                     <div class="media-object-section">
-                        <h5>Fire Station 2</h5>
+                        <h5>El Segundo Fire Station #2</h5>
                         <p>
                             <a href="tel:+1-310-524-1990">(310) 524-1990</a></br>
                             2261 E. Mariposa Ave., El Segundo, CA 90245</br>
