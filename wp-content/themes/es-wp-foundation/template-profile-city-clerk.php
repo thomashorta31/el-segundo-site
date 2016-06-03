@@ -25,7 +25,7 @@
                             <a href="mailto:tweaver@elsegundo.org?Subject=Hello%20Tracy" target="_top">tweaver@elsegundo.org</a></br>
                             <a href="tel:+1-310-524-2305">(310) 524-2305</a></br>
                             350 Main Street, El Segundo, CA 90245</br>
-                            Monday - Thursday 7:00 a.m. - 6:00 p.m. (closed on Friday)</br>
+                            Monday - Thursday 7:00 a.m. - 6:00 p.m. | closed on Friday</br>
                         </p>
                     </div>
                 </div>
