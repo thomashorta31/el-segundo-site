@@ -4,7 +4,6 @@
             <div class="row column text-center">
                 <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/dest/img/welcome-el-segundo.png" alt="welcome to el segundo">
                 <p class="lead">Lorem ipsum dolor sit amet.</p>
-                <a href="#" class="button large hollow">Learn More</a>
             </div>
         </div>
         <div class="row">
