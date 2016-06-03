@@ -26,8 +26,18 @@ Code and take over the world line-by-line
     color: #000000;
 }
 
+/**
+ *
+ * Homepage (front-page.php)
+ *
+ */
+
 .home-hero {
     background: url(assets/dest/img/bg-sunset-ocean-tone.jpg) no-repeat center center;
     background-size: cover;
+}
+
+.lead {
+    color: white;
 }
 
