@@ -55,7 +55,7 @@
                     </div>
                 </div>
             </div>
-        </div><!--====  End of .row  ====-->
+        </div> <!--====  End of .row  ====-->
         <hr>
         <div class="row">
             <div class="medium-12 columns">
