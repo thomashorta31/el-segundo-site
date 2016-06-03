@@ -36,13 +36,10 @@
             <div class="medium-6 columns">
                 <div class="media-object">
                     <div class="media-object-section">
-                        <h5>Documents &amp; Forms</h5>
+                        <h5>Divisions</h5>
                         <p>
-                            <a href="http://www.sterlingcodifiers.com/codebook/index.php?book_id=587" target="_blank">Municipal Code</a></br>
-                            <a href="http://www.elsegundo.org/depts/elected/agendas.asp" target="_blank">City Council Agenda Packets</a></br>
-                            <a href="http://www.elsegundo.org/depts/elected/minutes.asp" target="_blank">City Council Meeting Minutes</a></br>
-                            <a href="http://www.elsegundo.org/civicax/filebank/blobdload.aspx?blobid=3729" target="_blank">Claim Forms</a></br>
-                            <a href="http://www.lavote.net/" target="_blank">Voter Registration</a></br>
+                            Administration:<a href="http://www.elsegundo.org/depts/cityclerk/admin/mission.asp" target="_blank"> Mission</a> | <a href="http://www.elsegundo.org/depts/cityclerk/admin/accomplish.asp" target="_blank">Accomplishments</a> | <a href="http://www.elsegundo.org/depts/cityclerk/admin/goals.asp" target="_blank">Goals</a></br>
+                            Elections:<a href="http://www.elsegundo.org/depts/cityclerk/elections/mission.asp" target="_blank"> Mission</a> | <a href="http://www.elsegundo.org/depts/cityclerk/elections/accomplish.asp" target="_blank">Accomplishments</a> | <a href="http://www.elsegundo.org/depts/cityclerk/elections/goals.asp" target="_blank">Goals</a></br>
                         </p>
                     </div>
                 </div>
@@ -50,10 +47,13 @@
             <div class="medium-6 columns">
                 <div class="media-object">
                     <div class="media-object-section">
-                        <h5>Divisions</h5>
+                        <h5>Documents &amp; Forms</h5>
                         <p>
-                            Administration:<a href="http://www.elsegundo.org/depts/cityclerk/admin/mission.asp" target="_blank"> Mission</a> | <a href="http://www.elsegundo.org/depts/cityclerk/admin/accomplish.asp" target="_blank">Accomplishments</a> | <a href="http://www.elsegundo.org/depts/cityclerk/admin/goals.asp" target="_blank">Goals</a></br>
-                            Elections:<a href="http://www.elsegundo.org/depts/cityclerk/elections/mission.asp" target="_blank"> Mission</a> | <a href="http://www.elsegundo.org/depts/cityclerk/elections/accomplish.asp" target="_blank">Accomplishments</a> | <a href="http://www.elsegundo.org/depts/cityclerk/elections/goals.asp" target="_blank">Goals</a></br>
+                            <a href="http://www.sterlingcodifiers.com/codebook/index.php?book_id=587" target="_blank">Municipal Code</a></br>
+                            <a href="http://www.elsegundo.org/depts/elected/agendas.asp" target="_blank">City Council Agenda Packets</a></br>
+                            <a href="http://www.elsegundo.org/depts/elected/minutes.asp" target="_blank">City Council Meeting Minutes</a></br>
+                            <a href="http://www.elsegundo.org/civicax/filebank/blobdload.aspx?blobid=3729" target="_blank">Claim Forms</a></br>
+                            <a href="http://www.lavote.net/" target="_blank">Voter Registration</a></br>
                         </p>
                     </div>
                 </div>

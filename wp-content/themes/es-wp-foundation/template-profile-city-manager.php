@@ -35,16 +35,6 @@
             <div class="medium-6 columns">
                 <div class="media-object">
                     <div class="media-object-section">
-                        <h5>Mission</h5>
-                        <p>
-                            The City Manager’s office provides leadership and direction regarding the implementation of policies and programs established by the City Council. It ensures operations are conducted within revenue limits. This office makes available to the City’s employees the tools necessary to accomplish the goal of providing superior municipal services for the residents and business community of El Segundo; and promotes economic growth and diversity that can ensure job opportunities for residents and sufficient business vitality to maintain and expand support services.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="medium-6 columns">
-                <div class="media-object">
-                    <div class="media-object-section">
                         <h5>Documents &amp; Forms</h5>
                         <p>
                             <a href="http://www.elsegundo.org/civicax/filebank/blobdload.aspx?blobid=4038" target="_blank">Application to Committees/Commissions/Boards</a></br>
@@ -52,8 +42,17 @@
                     </div>
                 </div>
             </div>
+            <div class="medium-6 columns">
+                <div class="media-object">
+                    <div class="media-object-section">
+                        <h5>Mission</h5>
+                        <p>
+                            The City Manager’s office provides leadership and direction regarding the implementation of policies and programs established by the City Council. It ensures operations are conducted within revenue limits. This office makes available to the City’s employees the tools necessary to accomplish the goal of providing superior municipal services for the residents and business community of El Segundo; and promotes economic growth and diversity that can ensure job opportunities for residents and sufficient business vitality to maintain and expand support services.
+                        </p>
+                    </div>
+                </div>
+            </div>
         </div><!--====  End of .row  ====-->
-
         <hr>
         <div class="row">
             <div class="medium-3 columns">
