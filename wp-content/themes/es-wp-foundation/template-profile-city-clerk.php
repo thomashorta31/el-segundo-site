@@ -66,20 +66,20 @@
                     <div class="media-object-section">
                         <h5>Frequently Asked Questions</h5>
                         <p>
-                            Where can I register to vote?</br>
-                            • Forms are available at the City Clerk's Office, Post Office, Library, Chamber of Commerce or online at <a href="http://www.lavote.net/" target="_blank">lavote.net</a>.</br>
+                            <span style='font-weight: bold;'>Where can I register to vote?</span></br>
+                            • Forms are available at the City Clerk's Office, Post Office, Library, Chamber of Commerce or online at <a href="http://www.lavote.net/" target="_blank">lavote.net</a>.
                         </p>
                         <p>
-                            Where are City Council meetings held?</br>
+                            <span style='font-weight: bold;'>Where are City Council meetings held?</span></br>
                             • First and third Tuesday of each month in the City Hall Council Chambers, 350 Main Street. Open session begins at 7:00 p.m.
                         </p>
                         <p>
-                           How do I file claims against the city?</br>
+                           <span style='font-weight: bold;'>How do I file claims against the city?</span></br>
                            • Claim forms are available in the City Clerk's Office at City Hall, 350 Main Street (or electronically under Available Documents &amp; Forms).
                         </p>
                         <p>
-                            How do I file claims not against the city?</br>
-                            • County Courthouse, located at One Regent Street, Inglewood, CA 90301. (310) 419-5132.
+                           <span style='font-weight: bold;'>How do I file claims not against the city?</span></br>
+                           • County Courthouse, located at One Regent Street, Inglewood, CA 90301. (310) 419-5132.
                         </p>
                     </div>
                 </div>
