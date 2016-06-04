@@ -1,5 +1,5 @@
+    <hr>
     <div class="row column">
-        <hr>
         <ul class="menu footer-menu">
             <li class="float-left"><a href="/index.php?page_id=18">Visitor</a></li>
             <li class="float-left"><a href="/index.php?page_id=29">Services</a></li>
