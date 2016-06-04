@@ -72,6 +72,7 @@ h3 {
     color: $silver-chalice;
     font-weight: bold;
 }
+
 p {
     color: $silver-chalice;
 }
@@ -100,3 +101,19 @@ p {
 .medium-6.columns, .medium-4.columns, .medium-3.columns {
     float: left;
 }
+
+/**
+ *
+ * Homepage (front-page.php)
+ *
+ */
+
+.home-hero {
+    background: url(assets/dest/img/bg-sunset-ocean-tone.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.lead {
+    color: white;
+}
+
