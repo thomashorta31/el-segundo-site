@@ -91,7 +91,7 @@
         </div> <!--====  End of .row  ====-->
         <hr>
         <div class="row">
-            <div class="medium-3 columns">
+            <div class="medium-4 columns">
                 <div class="media-object">
                     <div class="media-object-section">
                         <h5>Director: </br><span style='font-weight: normal;'>Meredith Petit</span></h5>
@@ -102,7 +102,7 @@
                     </div>
                 </div>
             </div>
-            <div class="medium-3 columns">
+            <div class="medium-4 columns">
                 <div class="media-object">
                     <div class="media-object-section">
                         <h5>Parks Supervisor: </br><span style='font-weight: normal;'>Joseph Casillas</span></h5>
@@ -113,18 +113,7 @@
                     </div>
                 </div>
             </div>
-            <div class="medium-3 columns">
-                <div class="media-object">
-                    <div class="media-object-section">
-                        <h5>Manager El Segundo TV: </br><span style='font-weight: normal;'>Dan O'Toole</span></h5>
-                        <p>
-                            <a href="mailto:dotoole@elsegundo.org?Subject=Hello%20Dan" target="_top">dotoole@elsegundo.org</a></br>
-                            <a href="tel:+1-310-524-2719">(310) 524-2719</a></br>
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="medium-3 columns">
+            <div class="medium-4 columns">
                 <div class="media-object">
                     <div class="media-object-section">
                         <h5>Recreation Supervisor: </br><span style='font-weight: normal;'>Jesse Bobbett</span></h5>
