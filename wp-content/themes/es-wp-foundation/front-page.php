@@ -8,12 +8,12 @@
         </div>
         <div class="row">
             <div class="medium-6 columns medium-push-6">
-                <img class="thumbnail" src="http://placehold.it/750x350">
+                <img class="thumbnail" src="<?php echo get_bloginfo('template_directory'); ?>/assets/src/img/water-tower.jpg">
 
             </div>
             <div class="medium-6 columns medium-pull-6">
-                <h2>Headline</h2>
-                <p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna diam porttitor mauris, quis sollicitudin sapien justo in libero. Vestibulum mollis mauris enim. Morbi euismod magna ac lorem rutrum elementum. Donec viverra auctor. Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna diam porttitor mauris, quis sollicitudin sapien justo in libero.</p>
+                <h2>Ocean Water Desalination Briefing & Tour</h2>
+                <p>Join us on Saturday, June 11 at 9:00 a.m. to learnhow West Basin is exploring responsible ocean water desalination to diversifythe district's water supply portfolio and increase water reliability for ourregion! The presentation includes a brief tour of the renowned Edward C. LittleWater Recycling Facility, which showcases the same water purificationtechnologies that turn seawater into drinking water.</p>
             </div>
         </div>
         <hr>
