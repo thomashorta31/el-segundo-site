@@ -22,8 +22,8 @@ wp-content/plugins/*
 wp-content/themes/*
 !wp-content/themes/es-wp-foundation/
 
+wp-content/themes/es-wp-foundation/assets/dest
 ### Sass ###
-wp-content/themes/es-wp-foundation/*.css.map
 wp-content/themes/es-wp-foundation/.sass-cache/
 
 ### SublimeText ###
