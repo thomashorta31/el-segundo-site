@@ -26,11 +26,12 @@
             <div class="top-bar-right">
                 <ul class="menu">
                     <li>
-                        <input type="search" placeholder="Search">
+                        <?php get_search_form(); ?>
+                        <!-- <input type="search" placeholder="Search"> -->
                     </li>
-                    <li>
+<!--                     <li>
                         <button type="button" class="button">Search</button>
-                    </li>
+                    </li> -->
                 </ul>
             </div>
         </div>

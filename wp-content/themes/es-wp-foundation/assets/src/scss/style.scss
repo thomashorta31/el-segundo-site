@@ -100,3 +100,15 @@ p {
 .medium-6.columns, .medium-4.columns, .medium-3.columns {
     float: left;
 }
+.top-bar input {
+    width: 15em;
+    margin-right: 0rem;
+}
+.button {
+    padding: .785em 1em;
+}
+input#searchsubmit.button {
+    width: 6em;
+    margin-right: -2em;
+}
+
