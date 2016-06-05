@@ -9,7 +9,7 @@ Template Name: Search Page
             <h1>Search Results</h1>
         </div>
     </div>
-    <div class="row text-center">
+    <div class="row text-center result-margin-top">
         <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
             <p><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></p>
         <?php endwhile; else : ?>
