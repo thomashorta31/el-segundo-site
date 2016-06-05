@@ -29,9 +29,7 @@
                         <?php get_search_form(); ?>
                         <!-- <input type="search" placeholder="Search"> -->
                     </li>
-<!--                     <li>
-                        <button type="button" class="button">Search</button>
-                    </li> -->
+                        <!-- <li> <button type="button" class="button">Search</button> </li> -->
                 </ul>
             </div>
         </div>
