@@ -26,10 +26,7 @@
             <div class="top-bar-right">
                 <ul class="menu">
                     <li>
-                        <input type="search" placeholder="Search">
-                    </li>
-                    <li>
-                        <button type="button" class="button">Search</button>
+                        <?php get_search_form(); ?>
                     </li>
                 </ul>
             </div>

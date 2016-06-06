@@ -6,7 +6,7 @@
             <li class="float-left"><a href="/index.php/resident">Resident</a></li>
             <li class="float-left"><a href="/index.php/business">Business</a></li>
             <li class="float-left"><a href="/index.php/government">Government</a></li>
-            <li class="float-right"><a href="/index.php/home">&copy; 2016. The City of El Segundo</a></li>
+            <li class="float-right"><a href="/index.php">&copy; 2016. The City of El Segundo</a></li>
         </ul>
     </div>
     <?php wp_footer(); ?>
