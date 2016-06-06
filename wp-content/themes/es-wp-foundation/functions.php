@@ -18,6 +18,7 @@ function register_my_scripts() {
 add_action('wp_enqueue_scripts', 'register_my_scripts');
 
 add_theme_support( 'menus' );
+add_theme_support( 'html5', array( 'search-form' ) );
 
 function register_theme_menus() {
     register_nav_menus(
